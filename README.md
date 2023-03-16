@@ -1,2 +1,2 @@
 # antizombie.github.io
-SDN and STATIC Web Server
+CDN and STATIC Web Server
